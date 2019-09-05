@@ -25,4 +25,6 @@ PHP версия 7.2 или выше.
 - [mysqlnd]
 - xml 
 
+Файлы для проверки: SecretController и SecretModel
+
 Автор: Артем Пудов
